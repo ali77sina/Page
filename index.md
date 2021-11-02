@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page!
 
-<img align="right" img src="https://user-images.githubusercontent.com/54308350/139957792-eb2acf43-1e9a-4e7d-96af-e2941de4b58e.png" width="200" height="200" />
+<img align="right" img src="https://user-images.githubusercontent.com/54308350/139957792-eb2acf43-1e9a-4e7d-96af-e2941de4b58e.png" width="300" height="300" />
 
 My name is Ali, and I am doing my DPhil (PhD) in Clinical Neuroscience at the Nuffield Department of Clinical Neuroscience (NDCN), Univesity of Oxford, under the supervisio of Professor Timothy Denison, and Associate Professor Hayriye Cagnan. 
 
