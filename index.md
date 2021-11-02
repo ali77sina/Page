@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page!
 
-You can use the [editor on GitHub](https://github.com/ali77sina/Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Ali, and I am doing my DPhil (PhD) in Clinical Neuroscience at the Nuffield Department of Clinical Neuroscience (NDCN), Univesity of Oxford, under the supervisio of Professor Timothy Denison, and Associate Professor Hayriye Cagnan. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My DPhil involves enhancing and optimizing bioelectronic systems aimed at treating and mainating neurodegenerative diseases such Parkinson Disease (PD) or Epilepsy thorugh a method called Deep Brain Stimulation (DBS). 
 
-### Markdown
+### Research Focus 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+At the moment, I am interested in understanding the dynamics of different kinds of seizures that epileptic patients suffer from, and different predictive models trianed on them. Deep Learning has shown promising results 
 
 ```markdown
 Syntax highlighted code block
