@@ -1,3 +1,5 @@
+![alt text](C:\Users\lina3953\Desktop\matr.jfif)
+
 ## Welcome to my GitHub page!
 
 My name is Ali, and I am doing my DPhil (PhD) in Clinical Neuroscience at the Nuffield Department of Clinical Neuroscience (NDCN), Univesity of Oxford, under the supervisio of Professor Timothy Denison, and Associate Professor Hayriye Cagnan. 
