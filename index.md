@@ -1,6 +1,6 @@
-![alt text](C:\Users\lina3953\Desktop\matr.jfif)
-
 ## Welcome to my GitHub page!
+
+<img align="right" img src="https://user-images.githubusercontent.com/54308350/139957792-eb2acf43-1e9a-4e7d-96af-e2941de4b58e.png" width="200" height="200" />
 
 My name is Ali, and I am doing my DPhil (PhD) in Clinical Neuroscience at the Nuffield Department of Clinical Neuroscience (NDCN), Univesity of Oxford, under the supervisio of Professor Timothy Denison, and Associate Professor Hayriye Cagnan. 
 
@@ -8,32 +8,10 @@ My DPhil involves enhancing and optimizing bioelectronic systems aimed at treati
 
 ### Research Focus 
 
-At the moment, I am interested in understanding the dynamics of different kinds of seizures that epileptic patients suffer from, and different predictive models trianed on them. Deep Learning has shown promising results 
+At the moment, I am interested in understanding the dynamics of different kinds of seizures that epileptic patients suffer from, and different predictive models trianed on them. Deep Learning has shown promising results in this field and it will be a core part of my thesis and as such, one of main research interests. 
 
-```markdown
-Syntax highlighted code block
+At the moment, I am looking at training neural networks to detect seizures in epileptic patients, which has shown promising results, being almost 4-5 times faster than the classical methods used in commercial implants. 
 
-# Header 1
-## Header 2
-### Header 3
+Furthermore, I will be looking at unsupervised methods (e.g. Hidden Markov Model, HMM) for sleep analysis and network dynamics of neural populations to do with circadian rhythms. recently the study of how encoded variables in memory and the variable share a common topology has taken heat, and this would also show promising results for sleep studies. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ali77sina/Page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
