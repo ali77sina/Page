@@ -10,7 +10,7 @@ My DPhil involves enhancing and optimizing bioelectronic systems aimed at treati
 
 At the moment, I am interested in understanding the dynamics of different kinds of seizures that epileptic patients suffer from, and different predictive models trianed on them. Deep Learning has shown promising results in this field and it will be a core part of my thesis and as such, one of main research interests. 
 
-At the moment, I am looking at training neural networks to detect seizures in epileptic patients, which has shown promising results, being almost 4-5 times faster than the classical methods used in commercial implants. 
+Currently, I am looking at training neural networks to detect seizures in epileptic patients, which has shown promising results, being almost 4-5 times faster than the classical methods used in commercial implants. 
 
 Furthermore, I will be looking at unsupervised methods (e.g. Hidden Markov Model, HMM) for sleep analysis and network dynamics of neural populations to do with circadian rhythms. recently the study of how encoded variables in memory and the variable share a common topology has taken heat, and this would also show promising results for sleep studies. 
 
